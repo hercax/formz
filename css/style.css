@@ -1,0 +1,16 @@
+body {
+	padding-top:50px;
+}
+
+.alignRight {
+	text-align: right;
+	padding-right: 15px;
+}
+
+.visible {
+	visibility: visible;
+}
+
+.hidden {
+	visibility: hidden;
+}
